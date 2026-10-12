@@ -136,6 +136,4 @@ Features and setup instructions may change as development continues.
 
 **Harshitha**
 
-## 📄 License
 
-No license has been specified yet. All rights remain with the project author unless a license is added.
